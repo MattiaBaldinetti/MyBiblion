@@ -12,9 +12,6 @@
  
 </div>
 
-Inserire in questo documento:
-1.	(obbligatorio) Una descrizione dei file del progetto che state allegando a questo compito (cioè un README del file zip contenente i file del progetto)
-
 README per il lancio del sito:
 1.	Aprire il terminale 
 2.	Posizionarsi nella directory \backend\
