@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-![](images/home)
+
 
 
 ## Come lanciare il sito
@@ -26,6 +26,26 @@
   * Tramite VScode: utilizzando l’estensione Live server
 
 
+
+## Schermate del sito
+
+### Pagina di Login
+![](images/login.PNG)
+
+### Home Page
+![](images/home.PNG)
+
+### Profilo Utente
+![](images/profile.PNG)
+
+### Scrittura articolo
+![](images/writepost.PNG)
+
+### Articolo Pubblicato
+![](images/article.PNG)
+
+### Numeri di click sull'articolo
+![](images/statistic.PNG)
 
 
 ## Struttura del progetto
