@@ -29,7 +29,7 @@
 
 ## Schermate del sito
 
-### Pagina di Login
+### Pagina di Login / Registrazione
 ![](images/login.PNG)
 
 ### Home Page
