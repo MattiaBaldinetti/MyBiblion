@@ -22,7 +22,7 @@
 * Lanciare il comando _"npm install"_
 * Per avviare il server, lanciare il comando _"npm start"_
 * Due possibili opzioni:
-  * Tramite directory: cliccare sul file index.html per avviare il sito
+  * Tramite cartella: cliccare sul file index.html per avviare il sito
   * Tramite VScode: utilizzando l’estensione Live server
 
 
